@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello 👋, I'm Stephen :) .
 
-<!--
-**Nitroson/Nitroson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Talking about Personal Stuffs! :-X**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently improving my data science and Python skills
+
+- 🌱 I’m currently learning **certified python for data science and machine learning**
+
+- 💬 Ask me about **Data analysis, Python and Statistics**
+
+- 📫 How to reach me: stevenwills544@gmail.com
+
+- 📫 Twitter: jay_quame
+
+- ⚡ Fun fact: I play video games to relieve stress <3 to release stress :)
+</br>
+
+<br></br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitroson&theme=radical)
