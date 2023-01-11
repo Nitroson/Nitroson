@@ -14,7 +14,7 @@
 
 - 📫 Twitter: jay_quame
 
-- ⚡ Fun fact: I play video games to relieve stress <3 to release stress :)
+- ⚡ Fun fact: I play video games to relieve stress <3 .
 </br>
 
 <br></br>
