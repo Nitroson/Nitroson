@@ -18,4 +18,4 @@
 </br>
 
 <br></br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitroson&theme=radical)
+![Nitroson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitroson&show_icons=true&hide_border=true)
