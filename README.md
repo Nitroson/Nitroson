@@ -4,7 +4,7 @@
 **Talking about Personal Stuffs! :-X**
 
 
-- 🔭 I’m currently an intern at trestle academy Ghana ,improving my data science and Python skills and machine learning.
+- 🔭 I’m currently an intern at trestle academy Ghana ,improving my data science and python skills and machine learning.
 
 - 🌱 I’m currently learning **certified python for data science and machine learning**
 
