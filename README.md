@@ -4,9 +4,9 @@
 **Talking about Personal Stuffs! :-X**
 
 
-- 🔭 I’m currently an intern at trestle academy Ghana ,improving my data science and python skills and machine learning.
+- 🔭 I'm interested in all things related to Big Data, AI , RPA and Machine Learning.
 
-- 🌱 I’m currently learning **certified python for data science and machine learning**
+- 🌱 I’m currently learning **RPA**
 
 - 💬 Ask me about **Data analysis, Python and Statistics.**
 
