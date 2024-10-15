@@ -6,9 +6,9 @@
 
 - 🔭 I'm interested in all things related to Big Data, AI , RPA and Machine Learning.
 
-- 🌱 I’m currently learning **RPA**
+- 🌱 I’m currently learning **MLOpS**
 
-- 💬 Ask me about **Data analysis, Python and Statistics.**
+- 💬 Ask me about **Data analysis, Python and Statistics, AI.**
 
 - 📫 How to reach me: stevenwills544@gmail.com
 
