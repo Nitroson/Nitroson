@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data analysis, Python and Statistics, AI.**
 
-- 📫 How to reach me: stephen.o.nknasah
+- 📫 How to reach me: stephen.o.nknasah.com
 
 - 📫 Twitter: jay_quame
 
