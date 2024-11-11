@@ -1,4 +1,4 @@
-### Hello 👋, I'm Stephen :) .
+### Hi 👋, I'm Stephen :) .
 
 
 **Talking about Personal Stuffs! :-X**
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data analysis, Python and Statistics, AI.**
 
-- 📫 How to reach me: stevenwills544@gmail.com
+- 📫 How to reach me: stephen.o.nknasah
 
 - 📫 Twitter: jay_quame
 
